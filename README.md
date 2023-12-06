@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on hobby stuff like *buntu/Debian Linux and things around AVM fritz.box stuff.
 - 📫 How to reach me: email is enough.
 - I'm a proud owner of a TUXEDO laptop "Pulse 15 Gen2".
-- My wife and my insulin-pum are only reasons for two devices with Microsoft Windows in my home :-(.
+- My wife and my insulin-pump are only reasons for two devices with Microsoft Windows in my home :-(.
 - I was very young, as I first lay my hands on an APPLE 2e.
 - I do not like Apple since 1984. I keep that state of mind, you can't change my mind.
 - I once was an admin for Microsoft servers, but I was healed from that.
