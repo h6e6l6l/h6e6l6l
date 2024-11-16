@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 Hi, I’m @h6e6l6l
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning to be master in my job as being a system/software engineer for a now globally aero company with a base in Dortmund/NRW, company was sold
+- 🌱 I’m currently learning to be master in my job as being a system/software engineer for a now globally aero company with a base in Dortmund/NRW, company was sold in May 2024
 - 💞️ I’m looking to collaborate on hobby stuff like *buntu/Debian Linux and things around AVM fritz.box stuff
 - 📫 How to reach me: email is enough
 - I'm a proud owner of a TUXEDO laptop "Pulse 15 Gen2"
